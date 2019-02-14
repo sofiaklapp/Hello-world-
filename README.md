@@ -1,4 +1,4 @@
 # Hello-world-
 just another repository
- i`m Sofia, I'm very happy doing this course.
+ I'm Sofia and I'm very happy doing this coding course.
  See you!
